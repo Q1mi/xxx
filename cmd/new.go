@@ -13,7 +13,7 @@ import (
 )
 
 const (
-	repoURL = "https://github.com/q1mi/gin-layout-base.git"
+	repoURL = "https://github.com/Q1mi/gin-layout-base.git"
 )
 
 type Project struct {
